@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec 13 12:38:59 2017
-
-@author: Ethan
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Dec 11 01:50:52 2017
 
 @author: Ethan
